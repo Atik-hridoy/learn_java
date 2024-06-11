@@ -1,3 +1,4 @@
+package learn_java.other;
 import javax.swing.plaf.synth.SynthStyle;
 
 public class conditionExample {

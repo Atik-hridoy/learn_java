@@ -1,3 +1,4 @@
+package learn_java.other;
 public class test {
 public static void main(String [] args){
     System.out.println("hello world !!");
